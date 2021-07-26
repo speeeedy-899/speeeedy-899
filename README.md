@@ -1,4 +1,4 @@
-  <h2>Hi, I’m Utsav, currently studying in IIT(BHU)</h2>
+  <h2>Hi, I’m Utsav, a senior undergraduate at IIT(BHU)</h2>
 
   I’m interested in software development and web development.<br>
   I’m currently learning Data Structures and Algorithms<br><br>
